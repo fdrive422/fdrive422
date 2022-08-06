@@ -1,16 +1,14 @@
-## Hi there, I'm Francis - akd 'fdrive422' 👋
+## Hi there, I'm Francis - aka 'fdrive422' 👋
 
-### I'm a Husband, Father, Developer!
-
--   🔭 I’m working on freelance projects
+-   🔭 I’m currently working on building my portfolio
 -   🌱 I’m learning Docker and Swift iOS
--   👯 I’m open to collaborate on Javascrpit React projects
--   🥅 2022 Goals: Learn more about web3
+-   👯 I’m open to collaborate on ReactJS, Python projects
+-   🥅 My 2022 goal is continue pursuing my passion in software development and freelancing
 -   📫 How to reach me: f.drive@live.com
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=stars,prs&theme=react)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=prs&theme=react)
 
 ---
 
