@@ -7,7 +7,7 @@
 
 ---
 
-![fdrive422's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&theme=radical)
+![fdrive422's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&theme=prussian)
 
 ---
 
