@@ -1,17 +1,20 @@
-### Hello World 😄
+## Hi there, I'm Francis - akd 'fdrive422' 👋
 
--   🔭 I’m currently working freelance projects
--   🌱 I’m learning Docker and Swift IOS
+### I'm a Husband, Father, Developer!
+
+-   🔭 I’m working on freelance projects
+-   🌱 I’m learning Docker and Swift iOS
 -   👯 I’m open to collaborate on Javascrpit React projects
+-   🥅 2022 Goals: Learn more about web3
 -   📫 How to reach me: f.drive@live.com
 
 ---
 
-![fdrive422's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&theme=prussian)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=stars,prs&theme=react)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrive422&hide=css&layout=compact&theme=prussian)](https://github.com/fdrive422/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrive422&hide=css&layout=compact&theme=react)](https://github.com/fdrive422/github-readme-stats)
 
 ### Languages and Tools:
 
