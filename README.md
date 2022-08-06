@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on freelance projects
 - 🌱 I’m currently learning UI/UX, Swift IOS
 - 👯 I’m looking to collaborate on Javascrpit React projects
-- 📫 How to reach me: fafrago@gmail.com
+- 📫 How to reach me: f.drive@live.com
 
 ### Languages and Tools:
 
