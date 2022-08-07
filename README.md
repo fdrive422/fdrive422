@@ -1,10 +1,10 @@
-## Hi there, I'm Francis - aka 'fdrive422' 👋
+## Hi there, I'm Francis - aka 'fdrive' 👋
 
 -   🔭 I’m currently working on building my portfolio
 -   🌱 I’m learning Docker and Swift iOS
 -   👯 I’m open to collaborate on ReactJS, Python projects
 -   🥅 My 2022 goal is pursuing my passion in software development and freelancing
--   ⚡ Fun fact: aviation, tech and sports enthusiast
+-   ⚡ Fun fact: aviation, technology and sports enthusiast
 -   📫 How to reach me: f.drive@live.com
 
 ---
