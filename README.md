@@ -3,7 +3,7 @@
 -   🔭 I’m currently working on building my portfolio
 -   🌱 I’m learning Docker and Swift iOS
 -   👯 I’m open to collaborate on ReactJS, Python projects
--   🥅 My 2022 goal is continue pursuing my passion in software development and freelancing
+-   🥅 My 2022 goal is pursuing my passion in software development and freelancing
 -   📫 How to reach me: f.drive@live.com
 
 ---
