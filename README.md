@@ -1,4 +1,4 @@
-## Hi there, I'm Francis - aka 'fdrive' 👋
+## Hi there, I'm Francis 👋
 
 -   🔭 I’m currently working on building my portfolio
 -   🌱 I’m learning Docker and Swift iOS
