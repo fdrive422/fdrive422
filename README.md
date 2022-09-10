@@ -5,7 +5,7 @@
 -   👯 I’m open to collaborate on ReactJS, Python projects
 -   🥅 My 2022 goal is pursuing my passion in software development and freelancing
 -   ⚡ Fun fact: I'm an aviation, technology and sports enthusiast
--   📫 How to reach me: f.drive@live.com
+-   📫 How to reach me: fafrago@gmail.com
 
 ---
 
