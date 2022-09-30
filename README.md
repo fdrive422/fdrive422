@@ -1,11 +1,11 @@
 ## Hi there, I'm Francis 👋
 
--   🔭 I’m currently working on my portfolio vaious projects
+-   ⚡ I’m currently working on my portfolio vaious projects
 -   🌱 I’m learning Docker and Swift iOS
--   👯 I’m open to collaborate on ReactJS, Python projects
+-   🤝 I’m open to collaborate on ReactJS, Python projects
 -   🥅 My 2022 goal is pursuing my passion in software development and freelancing
--   ⚡ Fun fact: I'm an aviation, technology and sports enthusiast
--   📫 How to reach me: Visit my <a href="https://portfolio-2-0-fdrive422.vercel.app">Digital Portfolio</a> website
+-   😄 Fun fact: I'm an aviation, technology and sports enthusiast
+-   🔭 More about me? Visit my <a href="https://portfolio-2-0-fdrive422.vercel.app">digital portfolio</a>
 
 ---
 
