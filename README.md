@@ -1,13 +1,12 @@
 ## Hi there, I'm Francis 👋
 
--   🔭 I’m currently working on building my portfolio
+-   🔭 I’m currently working on my portfolio vaious projects
 -   🌱 I’m learning Docker and Swift iOS
 -   👯 I’m open to collaborate on ReactJS, Python projects
 -   🥅 My 2022 goal is pursuing my passion in software development and freelancing
 -   ⚡ Fun fact: I'm an aviation, technology and sports enthusiast
--   📫 How to reach me: fafrago@gmail.com
+-   📫 How to reach me: Visit my <a href="https://portfolio-2-0-fdrive422.vercel.app">Digital Portfolio</a> website
 
-### Visit my <a href="https://portfolio-2-0-fdrive422.vercel.app">Digital Portfolio</a> website.
 ---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=prs&theme=react)
