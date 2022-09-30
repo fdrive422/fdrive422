@@ -7,7 +7,7 @@
 -   ⚡ Fun fact: I'm an aviation, technology and sports enthusiast
 -   📫 How to reach me: fafrago@gmail.com
 
-### <a href="https://portfolio-2-0-fdrive422.vercel.app">Digital Portfolio</a>
+   ### <a href="https://portfolio-2-0-fdrive422.vercel.app">Digital Portfolio</a>
 ---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=prs&theme=react)
