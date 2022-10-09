@@ -23,6 +23,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Typescript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
+<img align="left" alt="NextJS" width="26px" src="https://user-images.githubusercontent.com/26079832/101081341-ee73c900-35cf-11eb-8d44-b37713da3692.png"/>
 <img align="left" alt="Python" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="SpringBoot" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" />
