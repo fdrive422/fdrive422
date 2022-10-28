@@ -1,7 +1,7 @@
 ## Hi there, I'm Francis 👋
 
--   ⚡ I’m currently working on my building portfolio and various projects
--   🌱 I’m learning Docker and Swift iOS
+-   ⚡ I’m currently working on my building portfolio of projects
+-   🌱 I’m learning Docker and Swift
 -   🤝 I’m open to collaborate on React and Python projects
 -   🥅 My 2022 goal is pursuing my passion in software development and freelancing
 -   😄 Fun fact: I'm an aviation, technology and sports enthusiast
