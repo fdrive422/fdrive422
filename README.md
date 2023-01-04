@@ -1,9 +1,9 @@
 ## Hi there, I'm Francis 👋
 
 -   ⚡ I’m currently working on my building portfolio of projects
--   🌱 I’m learning Docker and Swift
--   🤝 I’m open to collaborate on React and Python projects
--   🥅 My 2022 goal is pursuing my passion in software development and freelancing
+-   🌱 I’m learning JavaScript frameworks & Swift iOS
+-   🤝 I’m open to collaborate on fullstack React projects
+-   🥅 My 2023 goal is pursuing my passion in software development and freelancing
 -   😄 Fun fact: I'm an aviation, technology and sports enthusiast
 -   🔭 More about me? Please visit my <a href="https://portfolio-2-0-fdrive422.vercel.app">Digital Portfolio</a>
 
