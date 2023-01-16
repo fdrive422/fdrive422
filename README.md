@@ -8,13 +8,13 @@
 -   🔭 More about me? Please visit my <a href="https://portfolio-2-0-fdrive422.vercel.app">Digital Portfolio</a>
 
 ---
-
+<!-- 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=prs&theme=react)
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrive422&hide=css&layout=compact&theme=react)](https://github.com/fdrive422/github-readme-stats)
-
+ -->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
