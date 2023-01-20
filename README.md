@@ -1,7 +1,7 @@
 ## Hi there, I'm Francis 👋
 
--   ⚡ I’m currently working on my building portfolio of projects
--   🌱 I’m learning JavaScript frameworks & Swift iOS
+-   ⚡ I’m currently working on building my portfolio of projects
+-   🌱 I’m learning Swift iOS
 -   🤝 I’m open to collaborate on fullstack React projects
 -   🥅 My 2023 goal is pursuing my passion in software development and freelancing
 -   😄 Fun fact: I'm an aviation, technology and sports enthusiast
@@ -9,12 +9,12 @@
 
 ---
 
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=prs&theme=react)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=prs&theme=react)
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrive422&hide=css&layout=compact&theme=react)](https://github.com/fdrive422/github-readme-stats)
- -->
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
