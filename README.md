@@ -5,7 +5,7 @@
 -   🤝 I’m open to collaborate on fullstack React projects
 -   🥅 My 2023 goal is pursuing my passion in software development and freelancing
 -   😄 Fun fact: I'm an aviation, technology and sports enthusiast
--   🔭 More about me? Please visit my <a href="https://react-portfolio-ffrago.vercel.app/">Digital Portfolio</a>
+-   🔭 More about me? Please visit my <a href="https://portfolio-ffrago.vercel.app/">Digital Portfolio</a>
 
 ---
 
