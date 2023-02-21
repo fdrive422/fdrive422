@@ -1,6 +1,6 @@
 ## Hi there, I'm Francis 👋
 
--   ⚡ I’m currently working on building my portfolio of projects
+-   ⚡ I’m currently working on my portfolio of projects
 -   🌱 I’m learning Swift iOS
 -   🤝 I’m open to collaborate on fullstack projects - Pyton, ReactJS
 -   🥅 My 2023 goal is pursuing freelance software development
