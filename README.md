@@ -9,9 +9,9 @@
 
 ---
 
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=prs&theme=react)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=prs&theme=react)
 
---- -->
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrive422&hide=css&layout=compact&theme=react)](https://github.com/fdrive422/github-readme-stats)
 
