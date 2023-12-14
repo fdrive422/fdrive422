@@ -3,7 +3,7 @@
 -   ⚡ I’m currently working on my portfolio of projects
 -   🌱 I’m learning Swift iOS
 -   🤝 I’m open to collaborate on fullstack projects - Pyton, ReactJS
--   🥅 My 2023 goal is pursuing freelance software development
+-   🥅 My 2024 goal is pursuing freelance software development
 -   😄 Fun fact: I'm an aviation, technology and sports enthusiast
 -   🔭 More about me? Please visit my <a href="https://portfolio-ffrago.vercel.app/">Digital Portfolio</a>
 
