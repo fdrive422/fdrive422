@@ -2,7 +2,7 @@
 
 -   ⚡ I’m currently working on my portfolio of projects
 -   🌱 I’m learning AI integration
--   🤝 I’m open to collaborating on full-stack projects - Python, ReactJS
+-   🤝 I’m open to collaborating on full-stack projects - NextJS, Python
 -   🥅 My 2024 goal is to pursue freelance software development
 -   😄 Fun fact: I'm an aviation, technology and sports enthusiast
 -   🔭 More about me? Please visit my <a href="https://portfolio-ffrago.vercel.app/">Digital Portfolio</a>
