@@ -3,7 +3,6 @@
 -   ⚡ I’m currently working on my portfolio of projects
 -   🌱 I’m learning AI integration
 -   🤝 I’m open to collaborating on full-stack web development projects
-<!---   🥅 My 2024 goal is to pursue freelance software development -->
 -   😄 Fun fact: I'm an aviation, technology and sports enthusiast
 -   🔭 More about me? Please visit my <a href="https://portfolio-ffrago.vercel.app/">Digital Portfolio</a>
 
@@ -48,3 +47,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🥅 My 2024 goal is to pursue freelance software development -->
