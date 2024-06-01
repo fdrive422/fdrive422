@@ -1,7 +1,7 @@
 ## Hi there, I'm Francis 👋
 
 <!---   ⚡ I’m currently working on my portfolio of projects-->
--   🌱 I’m learning AI integration
+-   🌱 I’m learning AI integration and SaaS development
 -   🤝 I’m open to collaborating on full-stack web development projects
 -   😄 Fun fact: I'm an aviation, technology and sports enthusiast
 -   🔭 More about me? Please visit my <a href="https://portfolio-ffrago.vercel.app/">Digital Portfolio</a>
