@@ -1,4 +1,3 @@
-## Hi there, I'm Francis 👋
 
 <!---   ⚡ I’m currently working on my portfolio of projects-->
 -   🌱 I’m learning AI integration and SaaS development
