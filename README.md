@@ -1,33 +1,58 @@
+# Hey, I'm Francis 👋
 
-<!---   ⚡ I’m currently working on my portfolio of projects-->
--   🌱 I’m learning AI integration and SaaS development
--   🤝 I’m open to collaborating on full-stack web development projects
--   😄 Fun fact: I'm an aviation, technology and sports enthusiast
--   🔭 More about me? Please visit my <a href="https://portfolio-ffrago.vercel.app/">Digital Portfolio</a>
+I spent a decade running operations for a commercial aviation company — budgets, vendor contracts, requirements gathering, UAT, production rollouts — before I started writing code. Now I do both.
 
----
-<!--
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdrive422&show_icons=true&hide=prs&theme=react)
+I'm a full-stack developer (React, Next.js, Node, Python, Java/Spring Boot) who also knows what it's like to sit on the other side of the table from a dev team. If you've ever been handed something "technically correct" that completely misses what the business actually needed — that's the gap I fill.
 
----
+## What I'm doing right now
 
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrive422&hide=css&layout=compact&theme=react)](https://github.com/fdrive422/github-readme-stats)
+- 🛠️ Freelancing on full-stack web apps and AI-integrated tools (OpenAI & Anthropic APIs)
+- 🧠 Building with AI-assisted tooling (Claude Code, Copilot) — faster shipping without skipping the parts that matter
+- ✈️ Still General Manager at Air Fayre, running day-to-day ops for an aviation services company — this is where the "I get how the business side actually works" comes from, and it's not theoretical
 
-### Languages and Tools:
+## Some things I've built
 
-<img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="HTML5" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="left" alt="Typescript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/> <img align="left" alt="React" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="left" alt="NextJS" width="30px" src="https://user-images.githubusercontent.com/26079832/101081341-ee73c900-35cf-11eb-8d44-b37713da3692.png"/> <img align="left" alt="Node.js" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img align="left" alt="Python" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> <img align="left" alt="Flask" width="35" height="-100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" /> <img align="left" alt="Java" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> <img align="left" alt="SpringBoot" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" /> <!-- <img align="left" alt="Express" width="37" height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /> --> <img align="left" alt="MySQL" width="35" height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> <img align="left" alt="MongoDB" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /> <img class="category" align="left" alt="Terminal" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
-<!--
-**fdrive422/fdrive422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project                                                                    | What it does                                                                  | Stack                                     |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------- |
+| [StayFinder](https://github.com/fdrive422/StayFinder)                      | Short-term rental app — search, maps, date picker, full booking flow          | Next.js, Tailwind, Mapbox                 |
+| [Live News](https://github.com/fdrive422/LiveNews)                         | Real-time news feed with dark mode and a GraphQL data layer                   | Next.js 13, TypeScript, Tailwind, GraphQL |
+| [E-commerce Dashboard](https://github.com/fdrive422/React-Admin-Dashboard) | Admin dashboard for managing orders, products, and data — built backend-first | React, Redux Toolkit Query                |
+| [Uber 2.0 Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation          | React Native, Redux, Google Maps API      |
+| [Rental Ratings](https://github.com/fdrive422/RentalRatings)               | CRUD app for rating and reviewing rental properties                           | Java, Spring Boot, MySQL                  |
 
-Here are some ideas to get you started:
+More (and the rest of the case studies) on my [portfolio →](https://portfolio-ffrago.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🥅 My 2024 goal is to pursue freelance software development -->
+## Tech I actually use
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+## The longer story
+
+I'm a Coding Dojo / Colorado Technical University grad — Black Belt, Full-Stack (Python, Java, MERN), 2022. Before that, "operations" was my whole job: I was the person translating between what leadership wanted, what the budget allowed, and what actually happened on the ground.
+
+That's the actual pitch. I can sit in your planning meeting, catch the operational constraint nobody's saying out loud, and then go build the thing — without needing a project manager to translate for me.
+
+## What people say
+
+> "His knowledge and mentorship was invaluable — I'd recommend him for future projects." — Jorge
+
+> "Collaborating with Francis was a great experience — he made real value-add contributions." — Paul
+
+## Let's talk
+
+I take on freelance and consulting work — full builds, MVPs, AI integrations, or "we have developers but need someone who can also talk to ops and leadership."
+
+- 🌐 [Portfolio](https://portfolio-ffrago.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ffrago)
+- 📫 your-email@example.com
