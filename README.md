@@ -41,7 +41,7 @@ More (and the rest of the case studies) on my [portfolio →](https://portfolio-
 
 I'm a Coding Dojo / Colorado Technical University grad — Black Belt, Full-Stack (Python, Java, MERN), 2022. Before that, "operations" was my whole job: I was the person translating between what leadership wanted, what the budget allowed, and what actually happened on the ground.
 
-That's the actual pitch. I can sit in your planning meeting, catch the operational constraint nobody's saying out loud, and then go build the thing — without needing a project manager to translate for me.
+That's the pitch. I can sit in your planning meeting, identify the operational constraint nobody's saying out loud, and then go build the solution — without needing a project manager to translate for me.
 
 ## What people say
 
@@ -55,4 +55,4 @@ I take on freelance and consulting work — full builds, MVPs, AI integrations, 
 
 - 🌐 [Portfolio](https://portfolio-ffrago.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ffrago)
-- 📫 your-email@example.com
+- 📫 [email] (fafrago@gmail.com)
