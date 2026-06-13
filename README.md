@@ -55,4 +55,4 @@ I take on freelance and consulting work — full builds, MVPs, AI integrations, 
 
 - 🌐 [Portfolio](https://portfolio-ffrago.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ffrago)
-- 📫 [email](fafrago@gmail.com)
+- 📫 fafrago@gmail.com
