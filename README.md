@@ -1,24 +1,24 @@
 # Hey, I'm Francis 👋
 
-I spent a decade running operations for a commercial aviation company — budgets, vendor contracts, requirements gathering, UAT, production rollouts — before I started writing code. Now I do both.
+I spent a decade running operations for a commercial aviation company working budgets, vendor contracts, requirements gathering, UAT, and production rollouts, before I started writing code. Now I do both.
 
-I'm a full-stack developer (React, Next.js, Node, Python, Java/Spring Boot) who also knows what it's like to sit on the other side of the table from a dev team. If you've ever been handed something "technically correct" that completely misses what the business actually needed — that's the gap I fill.
+I'm a full-stack developer (React, Next.js, Node, Python, Java/Spring Boot) who also knows what it's like to sit on the other side of the table from a dev team. If you've ever been handed something "technically correct" that completely misses what the business actually needed, that is the gap I fill.
 
 ## What I'm doing right now
 
 - 🛠️ Freelancing on full-stack web apps and AI-integrated tools (OpenAI & Anthropic APIs)
-- 🧠 Building with AI-assisted tooling (Claude Code, Copilot) — faster shipping without skipping the parts that matter
-- ✈️ Still General Manager at Air Fayre, running day-to-day ops for an aviation services company — this is where the "I get how the business side actually works" comes from, and it's not theoretical
+- 🧠 Building with AI-assisted tooling (Claude Code, Codex) for faster shipping without skipping the parts that matter
+- ✈️ Still General Manager at Air Fayre, running day-to-day ops for an aviation services company. This is where the "I get how the business side actually works" comes from, and it's not theoretical
 
 ## Some things I've built
 
-| Project                                                                    | What it does                                                                  | Stack                                     |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------- |
-| [StayFinder](https://github.com/fdrive422/StayFinder)                      | Short-term rental app — search, maps, date picker, full booking flow          | Next.js, Tailwind, Mapbox                 |
-| [Live News](https://github.com/fdrive422/LiveNews)                         | Real-time news feed with dark mode and a GraphQL data layer                   | Next.js 13, TypeScript, Tailwind, GraphQL |
-| [E-commerce Dashboard](https://github.com/fdrive422/React-Admin-Dashboard) | Admin dashboard for managing orders, products, and data — built backend-first | React, Redux Toolkit Query                |
-| [Uber 2.0 Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation          | React Native, Redux, Google Maps API      |
-| [Rental Ratings](https://github.com/fdrive422/RentalRatings)               | CRUD app for rating and reviewing rental properties                           | Java, Spring Boot, MySQL                  |
+| Project                                                                | What it does                                                         | Stack                                     |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------- |
+| [StayFinder](https://github.com/fdrive422/StayFinder)                  | Short-term rental app, search, maps, date picker, full booking flow  | Next.js, Tailwind, Mapbox                 |
+| [Live News](https://github.com/fdrive422/LiveNews)                     | Real-time news feed with dark mode and a GraphQL data layer          | Next.js 13, TypeScript, Tailwind, GraphQL |
+| [E-comm Dashboard](https://github.com/fdrive422/React-Admin-Dashboard) | Dashboard for managing orders, products, and data, backend-first     | React, Redux Toolkit Query                |
+| [Uber Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation | React Native, Redux, Google Maps API      |
+| [Rental Ratings](https://github.com/fdrive422/RentalRatings)           | CRUD app for rating and reviewing rental properties                  | Java, Spring Boot, MySQL                  |
 
 More (and the rest of the case studies) on my [portfolio →](https://portfolio-ffrago.vercel.app/)
 
@@ -39,9 +39,9 @@ More (and the rest of the case studies) on my [portfolio →](https://portfolio-
 
 ## The longer story
 
-I'm a Coding Dojo / Colorado Technical University grad — Black Belt, Full-Stack (Python, Java, MERN), 2022. Before that, "operations" was my whole job: I was the person translating between what leadership wanted, what the budget allowed, and what actually happened on the ground.
+I'm a Coding Dojo / Colorado Technical University grad Black Belt, Full-Stack (Python, Java, MERN), 2022. Before that, "operations" was my whole job: I was the person translating between what leadership wanted, what the budget allowed, and what actually happened on the ground.
 
-That's the pitch. I can sit in your planning meeting, identify the operational constraint nobody's saying out loud, and then go build the solution — without needing a project manager to translate for me.
+That's the pitch. I can sit in your planning meeting, identify the operational constraint nobody's saying out loud, and then build the solution without needing a project manager to translate for me.
 
 ## What people say
 
@@ -51,7 +51,7 @@ That's the pitch. I can sit in your planning meeting, identify the operational c
 
 ## Let's talk
 
-I take on freelance and consulting work — full builds, MVPs, AI integrations, or "we have developers but need someone who can also talk to ops and leadership."
+I take on freelance and consulting work, full builds, MVPs, AI integrations, or "we have developers but need someone who can also talk to ops and leadership."
 
 - 🌐 [Portfolio](https://portfolio-ffrago.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ffrago)
