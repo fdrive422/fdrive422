@@ -12,13 +12,13 @@ I'm a full-stack developer (React, Next.js, Node, Python, Java/Spring Boot) who 
 
 ## Some things I've built
 
-| Project                                                                | What it does                                                         | Stack                                     |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------- |
-| [StayFinder](https://github.com/fdrive422/StayFinder)                  | Short-term rental app, search, maps, date picker, full booking flow  | Next.js, Tailwind, Mapbox                 |
-| [Live News](https://github.com/fdrive422/LiveNews)                     | Real-time news feed with dark mode and a GraphQL data layer          | Next.js 13, TypeScript, Tailwind, GraphQL |
-| [E-comm Dashboard](https://github.com/fdrive422/React-Admin-Dashboard) | Admin dashboard managing orders, products, & data, backend-first     | React, Redux Toolkit Query                |
-| [Uber Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation | React Native, Redux, Google Maps API      |
-| [Rental Ratings](https://github.com/fdrive422/RentalRatings)           | CRUD app for rating and reviewing rental properties                  | Java, Spring Boot, MySQL                  |
+| Project                                                                | What it does                                                         | Stack                                                |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------- |
+| [StayFinder](https://github.com/fdrive422/StayFinder)                  | Short-term rental app, search, maps, date picker, full booking flow  | Next.js 14, Mapbox Geocoding v5, Pexels API, Goe-lib |
+| [Live News](https://github.com/fdrive422/LiveNews)                     | Real-time news feed with dark mode and a GraphQL data layer          | Next.js 13, TypeScript, Tailwind, GraphQL            |
+| [E-comm Dashboard](https://github.com/fdrive422/React-Admin-Dashboard) | Admin dashboard managing orders, products, & data, backend-first     | React, Redux Toolkit Query                           |
+| [Uber Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation | React Native, Redux, Google Maps API                 |
+| [Rental Ratings](https://github.com/fdrive422/RentalRatings)           | CRUD app for rating and reviewing rental properties                  | Java, Spring Boot, MySQL                             |
 
 More (and the rest of the case studies) on my [portfolio →](https://portfolio-ffrago.vercel.app/)
 
