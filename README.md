@@ -20,7 +20,7 @@ I'm a full-stack developer (React, Next.js, Node, Python, Java/Spring Boot) who 
 | [Uber Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation | React Native, Redux, Google Maps API                 |
 | [Rental Ratings](https://github.com/fdrive422/RentalRatings)           | CRUD app for rating and reviewing rental properties                  | Java, Spring Boot, MySQL                             |
 
-More (and the rest of the case studies) on my [portfolio →](https://portfolio-ffrago.vercel.app/)
+More (and the rest of the case studies) on my [portfolio →](https://ffrago-dev-portfolio.vercel.app)
 
 ## Tech I actually use
 
@@ -41,7 +41,7 @@ More (and the rest of the case studies) on my [portfolio →](https://portfolio-
 
 I'm a Coding Dojo / Colorado Technical University grad Black Belt, Full-Stack (Python, Java, MERN), 2022. Before that, "operations" was my whole job: I was the person translating between what leadership wanted, what the budget allowed, and what actually happened on the ground.
 
-That's the pitch. I can sit in your planning meeting, identify the operational constraint nobody's saying out loud, and then build the solution without needing a project manager to translate for me.
+I can sit in your planning meeting, identify the operational constraint nobody's saying out loud, and then build the solution without needing a project manager to translate for me.
 
 ## What people say
 
@@ -53,6 +53,6 @@ That's the pitch. I can sit in your planning meeting, identify the operational c
 
 I take on freelance and consulting work, full builds, MVPs, AI integrations, or "we have developers but need someone who can also talk to ops and leadership."
 
-- 🌐 [Portfolio](https://portfolio-ffrago.vercel.app/)
+- 🌐 [Portfolio](https://ffrago-dev-portfolio.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ffrago)
 - 📫 fafrago@gmail.com
