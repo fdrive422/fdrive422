@@ -18,7 +18,7 @@ I'm a full-stack developer (React, Next.js, Node, Python, Java/Spring Boot) who 
 | [Live News](https://github.com/fdrive422/LiveNews)                     | Real-time news feed with dark mode and a GraphQL data layer          | Next.js 13, TypeScript, Tailwind, GraphQL            |
 | [E-comm Dashboard](https://github.com/fdrive422/React-Admin-Dashboard) | Admin dashboard managing orders, products, & data, backend-first     | React, Redux Toolkit Query                           |
 | [Uber Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation | React Native, Redux, Google Maps API                 |
-| [Dev Project Tracker](https://github.com/fdrive422/DevProjectTracker)           | CRUD app used to manage software projects from planning to deployment                  | Java 11 | Spring Boot 2.7 | PostgreSQL                             |
+| [Dev Project Tracker](https://github.com/fdrive422/DevProjectTracker)           | CRUD app used to manage software projects from planning to deployment                  | Java 11, Spring Boot 2.7, PostgreSQL                             |
 
 More (and the rest of the case studies) on my [portfolio →](https://ffrago-dev-portfolio.vercel.app)
 
