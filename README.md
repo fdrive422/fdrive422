@@ -12,15 +12,15 @@ I'm a full-stack developer (React, Next.js, Node, Python, Java/Spring Boot) who 
 
 ## Some things I've built
 
-| Project                                                                | What it does                                                         | Stack                                                |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------- |
-| [StayFinder](https://github.com/fdrive422/StayFinder)                  | Short-term rental app, search, maps, date picker, full booking flow  | Next.js 14, Mapbox Geocoding v5, Pexels API, Goe-lib |
-| [Live News](https://github.com/fdrive422/LiveNews)                     | Real-time news feed with dark mode and a GraphQL data layer          | Next.js 13, TypeScript, Tailwind, GraphQL            |
-| [E-comm Dashboard](https://github.com/fdrive422/React-Admin-Dashboard) | Admin dashboard managing orders, products, & data, backend-first     | React, Redux Toolkit Query                           |
-| [Uber Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation | React Native, Redux, Google Maps API                 |
-| [Rental Ratings](https://github.com/fdrive422/RentalRatings)           | CRUD app for rating and reviewing rental properties                  | Java, Spring Boot, MySQL                             |
+| Project                                                                | What it does                                                          | Stack                                                |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------- |
+| [StayFinder](https://github.com/fdrive422/StayFinder)                  | Short-term rental app, search, maps, date picker, full booking flow   | Next.js 14, Mapbox Geocoding v5, Pexels API, Goe-lib |
+| [Live News](https://github.com/fdrive422/LiveNews)                     | Real-time news feed with dark mode and a GraphQL data layer           | Next.js 13, TypeScript, Tailwind, GraphQL            |
+| [E-comm Dashboard](https://github.com/fdrive422/React-Admin-Dashboard) | Admin dashboard managing orders, products, & data, backend-first      | React, Redux Toolkit Query                           |
+| [Uber Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation  | React Native, Redux, Google Maps API                 |
+| [Dev Project Tracker](https://github.com/fdrive422/DevProjectTracker)  | CRUD app used to manage software projects from planning to deployment | Java 11, Spring Boot 2.7, PostgreSQL                 |
 
-More (and the rest of the case studies) on my [portfolio →](https://ffrago.dev/)
+More (and the rest of the case studies) on my [portfolio →](https://ffrago.dev)
 
 ## Tech I actually use
 
@@ -41,7 +41,7 @@ More (and the rest of the case studies) on my [portfolio →](https://ffrago.dev
 
 I'm a Coding Dojo / Colorado Technical University grad Black Belt, Full-Stack (Python, Java, MERN), 2022. Before that, "operations" was my whole job: I was the person translating between what leadership wanted, what the budget allowed, and what actually happened on the ground.
 
-That's the pitch. I can sit in your planning meeting, identify the operational constraint nobody's saying out loud, and then build the solution without needing a project manager to translate for me.
+I can sit in your planning meeting, identify the operational constraint nobody's saying out loud, and then build the solution without needing a project manager to translate for me.
 
 ## What people say
 
@@ -53,6 +53,6 @@ That's the pitch. I can sit in your planning meeting, identify the operational c
 
 I take on freelance and consulting work, full builds, MVPs, AI integrations, or "we have developers but need someone who can also talk to ops and leadership."
 
-- 🌐 [Portfolio](https://ffrago.dev/)
+- 🌐 [Portfolio](https://ffrago.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ffrago)
 - 📫 fafrago@gmail.com
