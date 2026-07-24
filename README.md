@@ -20,7 +20,7 @@ I'm a full-stack developer (React, Next.js, Node, Python, Java/Spring Boot) who 
 | [Uber Clone](https://github.com/fdrive422/Uber-2.0-Clone)              | Ride-hailing app clone with live maps and route/distance calculation | React Native, Redux, Google Maps API                 |
 | [Rental Ratings](https://github.com/fdrive422/RentalRatings)           | CRUD app for rating and reviewing rental properties                  | Java, Spring Boot, MySQL                             |
 
-More (and the rest of the case studies) on my [portfolio →](https://portfolio-ffrago.vercel.app/)
+More (and the rest of the case studies) on my [portfolio →](https://ffrago.dev/)
 
 ## Tech I actually use
 
@@ -53,6 +53,6 @@ That's the pitch. I can sit in your planning meeting, identify the operational c
 
 I take on freelance and consulting work, full builds, MVPs, AI integrations, or "we have developers but need someone who can also talk to ops and leadership."
 
-- 🌐 [Portfolio](https://portfolio-ffrago.vercel.app/)
+- 🌐 [Portfolio](https://ffrago.dev/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ffrago)
 - 📫 fafrago@gmail.com
